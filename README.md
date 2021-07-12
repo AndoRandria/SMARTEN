@@ -15,7 +15,7 @@ There are also images in ".png" and ".jpg" format. There are used for the Graphi
 The file "smarten_v1.fig" is the editable Graphic User Interface of SMARTEN. The disposition of the Interface can be modified in this file
 The file "visualisation.fig" is also an editable Graphic User Interface; This time, it concerns the Interface of the 2D visualization of SMARTEN v1.0
 
-*____________________ The other branchs of this repository___________________________
+*____________________ The other folder in this repository___________________________
 
 The architecture of the codes and the relation between these codes are shown in the file "Architecture_SMARTEN.pdf" in the "Informations" branch.
 
@@ -31,7 +31,7 @@ An Instruction Manual named "SmartenV1_Instruction_Manual.pdf" is available in t
 
 A video named "Presentation of SMARTEN v1.mp4" is also available in the "Informations" branch. This video explains how to run and perform a simulation in SMARTEN v1.0.
 
-In the "Data" branch, there are necessary files to run a simulation in SMARTEN v1.0 as explained in the video "Presentation of SMARTEN v1.mp4":
+In the "Data" folder, there are necessary files to run a simulation in SMARTEN v1.0 as explained in the video "Presentation of SMARTEN v1.mp4":
 - "andravoahangy_tsena.shp" is an example of a map that is necessary to run the 2D visualization of SMARTEN.
 - "smarten_inputs_20buildings.xlsx" is an example of the inputs file. In this case, 20 buildings are used in the simulation.
 - "smarten_parameters_20buildings.xlsx" is an example of the parameters file. In this case, also, it corresponds to the parameters of 20 buildings.
