@@ -16,7 +16,7 @@ There are also images in ".png" and ".jpg" format. There are used for the Graphi
 The file "smarten_v1.fig" is the editable Graphic User Interface of SMARTEN. The disposition of the Interface can be modified in this file.
 The file "visualisation.fig" is also an editable Graphic User Interface; This time, it concerns the Interface of the 2D visualization of SMARTEN v1.0
 
-*____________________ The other folder in this repository___________________________
+*____________________ The other folders in this repository___________________________
 
 The architecture of the codes and the relation between these codes are shown in the file "Architecture_SMARTEN.pdf" in the "Informations" folder.
 
