@@ -1,0 +1,145 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="962536531" file="E:\Recherche\PIMENT\SMARTEN\Livrables_20210707\SmartenV1_MatLab_code\Smarten.prj" location="E:\Recherche\PIMENT\SMARTEN\Livrables_20210707\SmartenV1_MatLab_code" name="Smarten" preferred-package-location="E:\Recherche\PIMENT\SMARTEN\Livrables_20210707\SmartenV1_MatLab_code\Smarten\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>Smarten</param.appname>
+    <param.icon>${PROJECT_ROOT}\Smarten_resources\icon.ico</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\Smarten_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\Smarten_resources\icon_32.png</file>
+      <file>${PROJECT_ROOT}\Smarten_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\Smarten_resources\icon_16.png</file>
+    </param.icons>
+    <param.version>1.0</param.version>
+    <param.authnamewatermark>Ando Ny Aina RANDRIANTSOA</param.authnamewatermark>
+    <param.email>ando.randriantsoa.istt@gmail.com</param.email>
+    <param.company>PIMENT Lab</param.company>
+    <param.summary>Smart Management AlgoRiThm of Electricity Network</param.summary>
+    <param.description>A multi-scale simulation tool for the management of mixed electrical energy flows</param.description>
+    <param.screenshot>${PROJECT_ROOT}\smartenwaiting.jpg</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\PIMENT Lab\Smarten\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo>${PROJECT_ROOT}\logo.png</param.logo>
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\Smarten\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\Smarten\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\Smarten\for_redistribution</param.output>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.required.mcr.products>
+      <item>35000</item>
+      <item>35010</item>
+      <item>35001</item>
+    </param.required.mcr.products>
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>true</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <unset>
+      <param.version />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.embed.ctf />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\smarten_v1.m</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\algo_nasser1.m</file>
+      <file>${PROJECT_ROOT}\algo_nasser2.m</file>
+      <file>${PROJECT_ROOT}\algo_pierrot.m</file>
+      <file>${PROJECT_ROOT}\andravoahangy_tsena.shp</file>
+      <file>${PROJECT_ROOT}\graphic_nasser.m</file>
+      <file>${PROJECT_ROOT}\graphic_pierrot.m</file>
+      <file>${PROJECT_ROOT}\logo.jpg</file>
+      <file>${PROJECT_ROOT}\logo.png</file>
+      <file>${PROJECT_ROOT}\Pilotage_espace_bati_nasser.m</file>
+      <file>${PROJECT_ROOT}\Pilotage_espace_bati_pierrot.m</file>
+      <file>${PROJECT_ROOT}\piment.png</file>
+      <file>${PROJECT_ROOT}\Smarten.prj</file>
+      <file>${PROJECT_ROOT}\smarten_v1.fig</file>
+      <file>${PROJECT_ROOT}\smarten_v1.m</file>
+      <file>${PROJECT_ROOT}\smartenwaiting.jpg</file>
+      <file>${PROJECT_ROOT}\ur.JPG</file>
+      <file>${PROJECT_ROOT}\visualisation.fig</file>
+      <file>${PROJECT_ROOT}\visualisation.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\Smarten\for_testing" name="splash.png" optional="false">E:\Recherche\PIMENT\SMARTEN\Livrables_20210707\SmartenV1_MatLab_code\Smarten\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\Smarten\for_testing" name="readme.txt" optional="true">E:\Recherche\PIMENT\SMARTEN\Livrables_20210707\SmartenV1_MatLab_code\Smarten\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\Smarten\for_testing" name="Smarten.exe" optional="false">E:\Recherche\PIMENT\SMARTEN\Livrables_20210707\SmartenV1_MatLab_code\Smarten\for_testing\Smarten.exe</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\Program Files\MATLAB\R2015b</root>
+      <toolboxes>
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="matlabcoder" />
+      </toolboxes>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.2</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
