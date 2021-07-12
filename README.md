@@ -37,6 +37,8 @@ In the "Data" folder, there are necessary files to run a simulation in SMARTEN v
 - "smarten_inputs_20buildings.xlsx" is an example of the inputs file. In this case, 20 buildings are used in the simulation.
 - "smarten_parameters_20buildings.xlsx" is an example of the parameters file. In this case, also, it corresponds to the parameters of 20 buildings.
 
+Finally, the executable of SMARTEN v1.0 is available in the "Executable" folder. The name of the file is "MyAppInstaller_web.exe". This file allows the users to online install SMARTEN v1.0. Internet connexion is necessary to download the Matlab Runtime 9.0. This executable of SMARTEN v1.0 was developped through the application creator in Matlab.
+
 We hope you will be able to run correctly SMARTEN v1.0 with this information. If you have any questions or comments, you can leave them directly here in the repository.
 Thank you for your interest in our work.
 
