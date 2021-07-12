@@ -17,19 +17,19 @@ The file "visualisation.fig" is also an editable Graphic User Interface; This ti
 
 *____________________ The other folder in this repository___________________________
 
-The architecture of the codes and the relation between these codes are shown in the file "Architecture_SMARTEN.pdf" in the "Informations" branch.
+The architecture of the codes and the relation between these codes are shown in the file "Architecture_SMARTEN.pdf" in the "Informations" folder.
 
-The calculation algorithms of Strategy 1 and Strategy 2 of SMARTEN are also available in the "Informations" branch.
+An Instruction Manual named "SmartenV1_Instruction_Manual.pdf" is available in the "Informations" folder. This manual explains how to install SMARTEN v1.0. The minimum configuration requirements, the necessary library to run SMARTEN v1.0 are also indicated in this manual. Finally, it shows how to run a simulation on the software.
+
+A video named "Presentation of SMARTEN v1.mp4" is also available in the "Informations" folder. This video explains how to run and perform a simulation in SMARTEN v1.0.
+
+The calculation algorithms of Strategy 1 and Strategy 2 of SMARTEN are also available in the "Informations" folder.
 There are the main algorithms named "main_algorithm_strategy1.pdf" and "main_algorithm_strategy2.pdf" respectively for each strategy. 
 Then, there are calculation algorithms named :
 - "calculation_algorithm_strategy1"
 - "calculation_algorithm_strategy2_Part1"
 - "calculation_algorithm_strategy2_Part2"
 - "calculation_algorithm_strategy2_Part3"
-
-An Instruction Manual named "SmartenV1_Instruction_Manual.pdf" is available in the "Informations" branch. This manual explains how to install SMARTEN v1.0. The minimum configuration requirements, the necessary library to run SMARTEN v1.0 are also indicated in this manual. Finally, it shows how to run a simulation on the software.
-
-A video named "Presentation of SMARTEN v1.mp4" is also available in the "Informations" branch. This video explains how to run and perform a simulation in SMARTEN v1.0.
 
 In the "Data" folder, there are necessary files to run a simulation in SMARTEN v1.0 as explained in the video "Presentation of SMARTEN v1.mp4":
 - "andravoahangy_tsena.shp" is an example of a map that is necessary to run the 2D visualization of SMARTEN.
