@@ -12,7 +12,8 @@ In order to run SMARTEN v1.0 in Matlab, the user has to download all the files i
 Then, open the main code "smarten_v1.m" and run it.
 The other codes are secondary codes, which perform specific actions related to the main code.
 There are also images in ".png" and ".jpg" format. There are used for the Graphical User Interface (GUI) of SMARTEN v1.0.
-The file "smarten_v1.fig" is the editable Graphic User Interface of SMARTEN. The disposition of the Interface can be modified in this file
+
+The file "smarten_v1.fig" is the editable Graphic User Interface of SMARTEN. The disposition of the Interface can be modified in this file.
 The file "visualisation.fig" is also an editable Graphic User Interface; This time, it concerns the Interface of the 2D visualization of SMARTEN v1.0
 
 *____________________ The other folder in this repository___________________________
